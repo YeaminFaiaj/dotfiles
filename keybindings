@@ -1,0 +1,41 @@
+Default mod key is Super key.
+
+# applications
+mod + b = Launch Firefox
+mod + z = Launch Pcmanfm
+mod + x = Launch Telegram-desktop
+mod + c = Launch Discord
+mod + v = Launch Sublime Text
+mod + return = Launch Terminal
+mod + shift + return = Launch Rofi
+
+# system
+mod + control + w = change wallpaper
+mod + control + q = log out 
+mod + control + r = reload config
+mod + shift + c = kill focused window
+
+# switch between layouts
+mod + h = Move focus to left
+mod + j = Move focus to right
+mod + k = Move focus down
+mod + l = Move focus up
+mod + space = Move window focus to other window
+
+# move windows in stack
+mod + shift + h = Move window to the left
+mod + shift + j = Move window to the right
+mod + shift + k = Move window down
+mod + shift + l = Move window up
+
+# grow window
+mod + control + h = Grow window to the left
+mod + control + j = Grow window to the right
+mod + control + k = Grow window down
+mod + control + l = Grow window up
+mod + f = toggle fullscreen
+mod + shift + f = toggle floating layout
+mod + tab = toggle layout
+
+# media keys
+works
