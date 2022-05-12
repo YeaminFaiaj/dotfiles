@@ -1,6 +1,6 @@
 # dotfiles
 
-Keybinding can be found here. <br />
+Keybinding can be found [here](https://github.com/YeaminFaiaj/dotfiles/blob/b53d2e6a421b0f09cc826af3e7e5d54d9361c241/apps). <br />
 Packages I have installed. <br />
 
 ## Screenshots of Black&White Rice
