@@ -1,7 +1,7 @@
 # dotfiles
 
-Keybinding can be found [here](https://github.com/YeaminFaiaj/dotfiles/blob/b53d2e6a421b0f09cc826af3e7e5d54d9361c241/apps). <br />
-Packages I have installed. <br />
+Keybinding can be found [here](https://github.com/YeaminFaiaj/dotfiles/blob/278179a6439661c97b9d80bf36db45ead3e4d691/keybindings). <br />
+Packages I have [installed](https://github.com/YeaminFaiaj/dotfiles/blob/b53d2e6a421b0f09cc826af3e7e5d54d9361c241/apps). <br />
 
 ## Screenshots of Black&White Rice
 ![bw1](https://github.com/YeaminFaiaj/dotfiles/blob/84818f02d708a425de60bbc0ee943db342b4778a/previews/bw4.png)
