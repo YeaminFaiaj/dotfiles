@@ -1,0 +1,12 @@
+configuration {
+  display-drun: "";
+  display-window: "Windows:";
+  drun-display-format: "{icon}  {name}";
+  font: "Fira Code Nerd Font Medium 12";
+  show-icons: true;
+  icon-theme: "Papirus-Dark-nordic-folders";
+  modi: "window,run,drun";
+}
+
+@theme "~/.config/rofi/monochrome.rasi"
+

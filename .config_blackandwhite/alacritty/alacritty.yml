@@ -1,0 +1,65 @@
+window:
+  padding:
+    x: 5
+    y: 5
+  class:
+    instance: Alacritty
+    general: Alacritty
+  opacity: 1
+
+scrolling:
+  history: 10000
+  multiplier: 3
+
+
+font:
+  normal:
+    family: Fira Code Nerd Font Mono
+    style:  Medium
+  bold:
+    family: Fira Code Nerd Font
+    style:  Bold
+  italic:
+    family: Fira Code Nerd Font
+    style:  MediumItalic
+  bold_italic:
+    family: Fira Code Nerd Font
+    style: BoldItalic
+  size: 12
+draw_bold_text_with_bright_colors: true
+
+ # Colors (Tomorrow Night Bright)
+colors:
+  # Default colors
+  primary:
+    background: '0x000000'
+    foreground: '0xFFFFFF'
+
+  # Normal colors
+  normal:
+    black:   '0x101010'
+    red:     '0x252525'
+    green:   '0x2a2a2a'
+    yellow:  '0x464646'
+    blue:    '0x525252'
+    magenta: '0xb9b9b9'
+    cyan:    '0xe3e3e3'
+    white:   '0xf7f7f7'
+   
+  # Bright colors
+  bright:
+    black:   '0x7c7c7c'
+    red:     '0x999999'
+    green:   '0xa0a0a0'
+    yellow:  '0x8e8e8e'
+    blue:    '0x5e5e5e'
+    magenta: '0x686868'
+    cyan:    '0x747474'
+    white:   '0x333333'
+
+selection:
+  save_to_clipboard: false
+
+shell:
+  program: /usr/bin/zsh
+
